@@ -5,3 +5,7 @@
 
 <b>React Native<b><br>
 <b>Expo<b><br>
+  
+<h1 align="center">
+    <img alt="IMC" title="#IMC" src="./img.jpg" width="400px" />
+</h1>
