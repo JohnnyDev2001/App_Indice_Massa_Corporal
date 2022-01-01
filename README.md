@@ -19,9 +19,13 @@ or
 yarn start
 ```
 
-## É recomendado testar pelo Client Expo (Android):
+## É recomendado testar pelo Android Client:
 
-Acesse: <a href="https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www">expo-client-app</a>
+Acesse: <a href="https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www">expo-client-Android</a>
+
+## Você também pode testar pelo IOS Client:
+
+Acesse: <a href="https://apps.apple.com/app/apple-store/id982107779">expo-client-IOS</a>
 
 
 
