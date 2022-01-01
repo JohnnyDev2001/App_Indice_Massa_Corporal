@@ -30,6 +30,6 @@ Acesse: <a href="https://apps.apple.com/app/apple-store/id982107779">expo-client
 
 ## Mais:
 <h4>
-Para mais informações consulte: <a href="https://expo.dev/">https://expo.dev/</a>
+Para mais informações consulte: <a href="https://expo.dev/">https://expo.dev/</a></p>
 Para entender melhor veja também: <a href="https://reactnative.dev/">https://reactnative.dev/</a>
 </h4>
